@@ -1,4 +1,4 @@
-# Caso de Estudio 02: Optimizacion de Multiplicacion de Matrices y OpenMP
+# Optimizacion de Multiplicacion de Matrices y OpenMP
 
 Este proyecto realiza un estudio experimental detallado sobre el impacto de la optimizacion de codigo a nivel de hardware y paralelismo en el algoritmo de multiplicacion de matrices cuadradas ($C = A \times B$).
 
